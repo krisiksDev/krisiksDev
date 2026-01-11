@@ -4,7 +4,7 @@
 
 
 👋 Hi, my name's Gaspard Grignet, I'm 21 and I am currently studying computer science at ENIGMA-School based in Lille<br>
-🔍 I am looking for a 2 to 3 month internship starting in June 2026..<br>
+🔍 I am looking for a 2 to 3 month internship starting in June 2026.<br>
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
